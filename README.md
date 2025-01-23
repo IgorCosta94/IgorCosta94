@@ -3,9 +3,9 @@
 
 - 🌱 Atualmente estou aprendendo as linguagens de programação **C#(C Sharp ), Python e C**
 
-- 📫 Você me acha no seguinte e-mail **igorcosta_94@hotmail.com/igcostamartins19@gmail.com**
+- 📫 Você me acha nos seguintes e-mails **igorcosta_94@hotmail.com/igcostamartins19@gmail.com**
 
-- 📄 Já trabalhei como atendente, repositor e entregador em loja de comércio [www.linkedin.com/in/igor-martins-479aba346](www.linkedin.com/in/igor-martins-479aba346)
+- 📄 Já trabalhei como atendente, repositor e entregador [www.linkedin.com/in/igor-martins-479aba346](www.linkedin.com/in/igor-martins-479aba346)
 
 <h3 align="left"> Conecte-se comigo:</h3>
 <p align="left">
