@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, EU sou Igor</h1>
 <h3 align="center">Apaixonado por tecnologia e programação</h3>
 
-- 🌱 Atualmente estou aprendendo as linguagens de programação **C#(C Sharp ), Python e C**
+- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistema na Fatec-SP  e estou aprendendo as linguagens de programação **C#(C Sharp ), Python e C**
 
 - 📫 Você me acha nos seguintes e-mails **igorcosta_94@hotmail.com/igcostamartins19@gmail.com**
 
