@@ -1,6 +1,6 @@
 # Olá, eu sou o Igor 👋
 
-### Estudante de Tecnologia | Foco em Desenvolvimento de Sistemas e Análise de Dados
+### Estudante de Tecnologia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-martins-479aba346/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igcostamartins19@gmail.com)
