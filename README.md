@@ -1,62 +1,95 @@
-<h1 align="center">Oi 👋, eu sou o Igor!</h1>
-<h3 align="center">Estudante de Tecnologia | Apaixonado por programação e desenvolvimento de sistemas</h3>
+# Olá, eu sou o Igor 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/igor-martins-479aba346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:igcostamartins19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
+### Estudante de Tecnologia | Foco em Desenvolvimento de Sistemas e Análise de Dados
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-martins-479aba346/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igcostamartins19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorCosta94)
 
 ---
 
 ### 💻 Sobre mim
-- 🌱 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas na Fatec-SP** e **Ciência da Computação (EAD) na FIAP (2º semestre)**.
-- 🚀 Busco oportunidades de **estágio na área de tecnologia** para aplicar meus conhecimentos em desenvolvimento, banco de dados e nuvem.
-- 📄 Possuo experiência profissional prévia em atendimento, organização de estoque e logística, agregando forte foco em resolução de problemas e comunicação com clientes.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Fatec-SP** (6º semestre, conclusão prevista em 2027)
+- 🎓 Cursando também **Ciência da Computação (EAD)** na **FIAP** (2º semestre)
+- 🚀 Em busca de uma **vaga de estágio em tecnologia** para aplicar meus conhecimentos e continuar aprendendo na prática
+- 📊 Formação complementar em **análise de dados** (Google Data Analytics), **banco de dados** e **computação em nuvem** (Azure)
+- 🔭 Atualmente aprofundando **React** e desenvolvimento front-end
+- 💬 Também trago experiência prévia em atendimento ao cliente e logística, com foco forte em resolução de problemas e comunicação
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Front-end & Frameworks**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Banco de dados & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Análise de dados**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Metodologias & Ferramentas**
+
+![Scrum](https://img.shields.io/badge/Scrum-6BA539?style=flat-square&logo=scrumalliance&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 Projetos em destaque
+
+<!--
+  Dica: substitua os itens abaixo pelos seus projetos mais relevantes.
+  Formato sugerido: [nome](link) — descrição curta do que o projeto faz e quais tecnologias usa.
+-->
+
+- 🐍 **[beecrowd](https://github.com/IgorCosta94/beecrowd)** — Soluções em Python para exercícios de lógica de programação da plataforma Beecrowd
+- ☕ **[Programas_em_java](https://github.com/IgorCosta94/Programas_em_java)** — Programas desenvolvidos em Java durante os estudos da linguagem
+- 🌐 **[Exercicio_JavaScript](https://github.com/IgorCosta94/Exercicio_JavaScript)** — Páginas HTML com interatividade em JavaScript
+
+---
+
+### 📚 Certificados e cursos
+
+- 📊 **Google Data Analytics Professional Certificate** — Google/Coursera, 2025
+- 🐍 **Back-End com Python** — Bootcamp Santander/DIO, 58h, 2025
+- ☁️ **Fundamentos da Plataforma de Aplicações no Azure** — DIO, 2025
+- 🤖 **Artificial Intelligence Fundamentals** — IBM SkillsBuild, 2025
+- 🗄️ **Banco de Dados** — Fundação Bradesco Escola Virtual, 38h, 2025
+- 🔒 **Segurança da Informação e LGPD** — Fundação Bradesco Escola Virtual, 14h, 2025
+- ⚛️ **Desenvolvimento Front-End React** — Alura *(cursando)*
+
+---
+
+### 📈 Estatísticas do GitHub
+
 <p align="left">
-  <!-- Linguagens e Fundamentos -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <!-- Banco de Dados e Nuvem -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorCosta94&show_icons=true&theme=default&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCosta94&layout=compact&hide_title=true" height="165"/>
 </p>
 
 ---
 
-### 📚 Principais Certificados e Cursos
-- 📊 **Google Data Analytics Professional Certificate** (Google/Coursera)
-- 🐍 **Back-End com Python** (Bootcamp DIO)
-- ☁️ **Introdução à Experiência Microsoft Azure Cloud Native** (DIO/Microsoft)
-- 🤖 **Artificial Intelligence Fundamentals** (IBM SkillsBuild)
-- 🗄️ **Banco de Dados & Python** (Fundação Bradesco)
-
----
-
 ### 📫 Contato
-- **E-mail profissional:** igcostamartins19@gmail.com / igorcosta_94@hotmail.com
-- **LinkedIn:** [Igor Martins](https://www.linkedin.com/in/igor-martins-479aba346/)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+- ✉️ **E-mail:** igcostamartins19@gmail.com
+- 💼 **LinkedIn:** [Igor Martins](https://www.linkedin.com/in/igor-martins-479aba346/)
+- 🎯 Aberto a oportunidades de **estágio em desenvolvimento, dados ou suporte técnico**
 
-IgorCosta94/IgorCosta94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
