@@ -59,11 +59,6 @@
   Dica: substitua os itens abaixo pelos seus projetos mais relevantes.
   Formato sugerido: [nome](link) — descrição curta do que o projeto faz e quais tecnologias usa.
 -->
-
-- 🐍 **[beecrowd](https://github.com/IgorCosta94/beecrowd)** — Soluções em Python para exercícios de lógica de programação da plataforma Beecrowd
-- ☕ **[Programas_em_java](https://github.com/IgorCosta94/Programas_em_java)** — Programas desenvolvidos em Java durante os estudos da linguagem
-- 🌐 **[Exercicio_JavaScript](https://github.com/IgorCosta94/Exercicio_JavaScript)** — Páginas HTML com interatividade em JavaScript
-
 ---
 
 ### 📚 Certificados e cursos
@@ -78,18 +73,10 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorCosta94&show_icons=true&theme=default&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCosta94&layout=compact&hide_title=true" height="165"/>
-</p>
-
----
 
 ### 📫 Contato
 
 - ✉️ **E-mail:** igcostamartins19@gmail.com
 - 💼 **LinkedIn:** [Igor Martins](https://www.linkedin.com/in/igor-martins-479aba346/)
-- 🎯 Aberto a oportunidades de **estágio em desenvolvimento, dados ou suporte técnico**
+- 🎯 Aberto a oportunidades de **estágio**
 
